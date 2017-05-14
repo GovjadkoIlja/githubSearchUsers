@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorRuby">#701516</color>
+    <color name="colorGo">#375EAB</color>
+    <color name="colorJavaScript">#F1E05A</color>
+    <color name="colorC">#555555</color>
+    <color name="colorObjectiveC">#438EFF</color>
+    <color name="colorShell">#89E051</color>
+    <color name="colorPython">#3572A5</color>
+    <color name="colorCoffeeScript">#244776</color>
+    <color name="colorJava">#B07219</color>
+    <color name="colorCSharp">#178600</color>
+    <color name="colorCSS">#563D7C</color>
+    <color name="colorHTML">#E97055</color>
+    <color name="colorCPlusPlus">#F34B7D</color>
+    <color name="colorErlang">#B83998</color>
+    <color name="colorPHP">#4F5D95</color>
+    <color name="colorPerl">#0298C3</color>
+    <color name="colorOCaml">#3BE133</color>
+    <color name="colorScala">#C22D41</color>
+    <color name="colorKotlin">#F18E33</color>
+    <color name="colorTypeScript">#2B7489</color>
+    <color name="colorSwift">#FFAC45</color>
+</resources>
